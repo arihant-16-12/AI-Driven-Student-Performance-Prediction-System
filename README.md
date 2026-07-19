@@ -43,6 +43,6 @@ streamlit run app.py
 
 ## 👩‍💻 Developed By
 
-**Sakshi Pandey**
+**Arihant Pratap Singh**
 
 Course: **Generative AI**
